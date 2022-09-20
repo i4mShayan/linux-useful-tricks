@@ -1,4 +1,4 @@
-# Wifi/LAN connected but no Internet connection
+# WIFI/LAN connected but no Internet connection
 
 <h2>Solution #1 (ProtonVPN)</h2>
 This problem mostly happen after using VPNs specially ProtonVPN
